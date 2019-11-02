@@ -17,6 +17,7 @@ The Fall 2019 session is a 10 weeks immersive program where students will be att
 ## Thursday: Code Poetry 
 * [Generative Text & intro to web](https://github.com/toddwords/SFPC-Code-Poetry-F19) Taught by Todd Anderson
 * [Peer to Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry) Taught by Melanie Hoff
+* [The Malleable Computer](https://github.com/fernandoramallo/sfpc-malleable-computer-fall-2019) Taught by Fernando Ramallo
 * Session TA, Stefan Pelikan
 
 ## Friday: Professional Development 
